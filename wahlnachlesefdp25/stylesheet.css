@@ -1,0 +1,31 @@
+body {
+                    font-family: "Open Sans", Verdana, Arial, sans-serif;
+                    color: #444;
+                    background-color: #fff;
+                    padding: 20px;
+                    font-size: 18px;
+                    line-height: 1.6;
+                }
+
+                h1, h2, h3 {
+                    font-weight: 600;
+                    color: #333;
+                }
+
+                .plot-container {
+                    display: flex;
+                    justify-content: center; /* centers horizontally */
+                    align-items: center;      /* centers vertically (optional) */
+                    text-align: center;
+                    margin: 40px 0;
+                }
+
+                p {
+                    margin-bottom: 1em;
+                }
+    #secretcontent { 
+        display: none; 
+    }
+    #login { 
+        text-align: center; margin-top: 20vh; 
+    }
